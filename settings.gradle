@@ -1,0 +1,2 @@
+rootProject.name = "offshorts"
+include ':app'
